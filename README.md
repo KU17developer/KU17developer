@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KU17developer&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KU17developer&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KU17developer&layout=compact&theme=dracula)
 
 <!--
 **KU17developer/KU17developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
