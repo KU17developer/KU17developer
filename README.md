@@ -52,19 +52,6 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </div>
-    <div>
-      <h2 style="font-size: 1.5em; color: #333;">:압정: 참여 프로젝트: Univora</h2>
-      <ul style="font-size: 1em; line-height: 1.8; color: #333;">
-        <li><strong>수강평 (CRUD)</strong>, <strong>수강평 답글 (CRUD)</strong>, <strong>하트(좋아요)</strong>, <strong>권한 설정</strong></li>
-        <li><strong>마이페이지</strong> (내 학습, 작성한 수강평, 구매내역, 내 프로필 설정 변경)</li>
-        <li><strong>회원가입</strong>, <strong>비밀번호 찾기</strong></li>
-        <li><strong>강의 검색</strong></li>
-        <li><strong>홈 화면 강의 출력</strong>, <strong>배너</strong></li>
-        <li><strong>세션 필터</strong>, <strong>에러 페이지</strong></li>
-        <li><strong>프론트엔드</strong> 개발</li>
-        <li><strong>피그마</strong>를 활용한 화면 설계</li>
-        <li><strong>PPT</strong> 작성 및 발표 자료 제작</li>
-      </ul>
-    </div>
+    
   </div>
 </div>
